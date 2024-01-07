@@ -1,0 +1,4 @@
+name: OnlyKeepInvOnNotPlayerKIll
+version: '1.0-SNAPSHOT'
+main: dev.thebjoredcraft.onlykeepinvonnotplayerkill.OnlyKeepInvOnNotPlayerKIll
+api-version: '1.20'
